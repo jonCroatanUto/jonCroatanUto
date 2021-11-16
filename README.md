@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonCroatanUto&langs_count=6)](https://github.com/jonCroatanUto/github-readme-stats)
-[![jonCroatanUto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonCroatanUto)](https://github.com/jonCroatanUto/github-readme-stats)
+
 
 
 
