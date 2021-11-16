@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning MERN stack , php, laravel, React
+- 🌱 I’m currently learning MERN stack , php, laravel, React...
 - 👯 I’m looking to collaborate on createing amazing apps
 - 🤔 I’m looking for help with a better world
 - 💬 Ask me about programming
