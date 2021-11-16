@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning MERN stack , php, laravel, React...
-- 👯 I’m looking to collaborate on createing amazing apps
-- 🤔 I’m looking for help with a better world
-- 💬 Ask me about programming
+- 🤔 I’m looking for help with ##MERN stack##
+- 💬 Ask me about ##React hooks, Node.js, desing , animation##
 - 📫 How to reach me: jon.garciaorad.asencor@gmail.com
 - ⚡ Fun fact: laugh it's the best you can do
 
@@ -17,11 +16,4 @@ Here are some ideas to get you started:
 ![jonCroatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonCroatanUto&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonCroatanUto&layout=compact)](https://github.com/jonCroatanUto/github-readme-stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
