@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jon Garcia</h1>
-<h3 align="center">👾 FullStack Developer | Sometimes a motion graphic designer</h3>
+<h3 align="center">👾 FullStack Developer </h3>
 
 
 
