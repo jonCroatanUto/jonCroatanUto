@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning MERN stack , php, laravel, React...
-- 🤔 I’m looking for help with ##MERN stack##
-- 💬 Ask me about ##React hooks, Node.js, desing , animation##
+- 🌱 I’m currently learning  php, laravel, ...
+- 🤔 I’m looking for help with **MERN stack**
+- 💬 Ask me about **React, Redux, Node.js,mongoDB, desing , animation**
 - 📫 How to reach me: jon.garciaorad.asencor@gmail.com
 - ⚡ Fun fact: laugh it's the best you can do
 
