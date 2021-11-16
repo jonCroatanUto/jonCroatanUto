@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  php, laravel, ...
 - 🤔 I’m looking for help with **MERN stack**
 - 💬 Ask me about **React, Redux, Node.js,mongoDB, desing , animation**
-- 📫 How to reach me: jon.garciaorad.asencor@gmail.com
+- 📫 How to reach me: jon.garciaorad.asencor@gmail.com 
+- 📄 Know about my experiences [https://www.linkedin.com/in/jon-garcia-webdeveloper/](https://www.linkedin.com/in/jon-garcia-webdeveloper/)
 - ⚡ Fun fact: laugh it's the best you can do
 
 
