@@ -1,7 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jon Garcia</h1>
+<h3 align="center">👾 FullStack Developer | Product Designer |  #perfmatters | Sometimes a motion graphic designer</h3>
 
 
-**jonCroatanUto/jonCroatanUto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
