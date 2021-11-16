@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![jonCroatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonCroatanUto&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonCroatan&langs_count=8)](https://github.com/jonCroatanUto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonCroatanUto&langs_count=8)](https://github.com/jonCroatanUto/github-readme-stats)
 
 
