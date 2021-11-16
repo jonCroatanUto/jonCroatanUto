@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-![jonCroatan's GitHub stats](https://github-readme-stats.vercel.app/apiusername=jonCroatanUto&show_icons=true&theme=radical)
+![jonCroatan's GitHub stats](https://github-readme-stats.vercel.app/apiusername=jonCroatanUto&theme=radical&show_icons=true)
 
 
 
