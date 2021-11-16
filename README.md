@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: laugh it's the best you can do
 
 
+
+
 ![jonCroatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonCroatanUto&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonCroatanUto&langs_count=6)](https://github.com/jonCroatanUto/github-readme-stats)
+[![jonCroatan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonCroatanUto)](https://github.com/jonCroatanUto/github-readme-stats)
 
 
 
