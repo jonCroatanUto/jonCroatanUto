@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: laugh it's the best you can do
 
 
-![jonCroatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonCroatanUto&show_icons=true&theme=radical)
+![jonCroatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonCroatanUto&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonCroatanUto&layout=compact)](https://github.com/jonCroatanUto/github-readme-stats&theme=radical)
 
 
