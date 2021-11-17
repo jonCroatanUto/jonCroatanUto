@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning  php, laravel, ...
+- 🌱 I’m currently learning  php, laravel, stripe ...
 - 🤔 I’m looking for help with **MERN stack**
 - 💬 Ask me about **React, Redux, Node.js,mongoDB, desing , animation**
 - 📫 How to reach me: jon.garciaorad.asencor@gmail.com 
