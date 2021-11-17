@@ -17,6 +17,7 @@
 
 
 <h3 align="left">Git activity:</h3>
+
 ![jonCroatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonCroatanUto&show_icons=true&theme=merko)
 
 
@@ -28,6 +29,7 @@
 
 
 <h3 align="left">Lenguatge use:</h3>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonCroatanUto&langs_count=6)](https://github.com/jonCroatanUto/github-readme-stats)
 
 
